@@ -8,19 +8,19 @@ Our architecture is composed of 4 Design Patterns:
 - Model: contains all the classes and interfaces needed to run the game. We
 include :
 - Classes :
-  ∗ MoveAuto (which animates the character when it moves)
-  ∗ Enemy
-  ∗ Game
-  ∗ GameObject
-  ∗ Loot
-  ∗ Player
-  ∗ Shoot
-  ∗ Shop
+  - MoveAuto (which animates the character when it moves)
+  - Enemy
+  - Game
+  - GameObject
+  - Loot
+  - Player
+  - Shoot
+  - Shop
 - Interfaces :
-  ∗ Directable
-  ∗ Life
-  ∗ Positionable
-  ∗ Updatable
+  - Directable
+  - Life
+  - Positionable
+  - Updatable
 - View : is composed of classes that enable display:
   - Map : allows the display of maps
   - Window : allows the creating of a window
