@@ -26,6 +26,8 @@ include:
   - Window: allows the creating of a window
 This architecture allows us to clearly differenciate the controls, the game, and the display.
 
+For more information, see the following [report](https://drive.google.com/file/d/1DnKR6TKi2AORRhLP6Srtdrfdn0NDKQB1/view?usp=drive_link).
+
 <img width="493" alt="Game1" src="https://github.com/Alban999/RPG-Game/assets/74149424/9835f88d-5ef6-4d7c-81dd-e0c9d9950c1f">
 <img width="493" alt="Game2" src="https://github.com/Alban999/RPG-Game/assets/74149424/10fda25f-adbd-49ea-b12b-e858dfc1ae47">
 <img width="493" alt="Game3" src="https://github.com/Alban999/RPG-Game/assets/74149424/88d59d02-243b-4d55-8f97-6380d99b1d3f">
