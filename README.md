@@ -5,8 +5,8 @@ This game is a role-playing game that consists of the evolution of a Polytechniq
 The architecture is composed of 4 Design Patterns:
 - Controller: contains the Keyboard class which allows to create commands for the game.
 - main: contains the MainStudent class, which enables us to launch the program.
-- Model: contains all the classes and interfaces needed to run the game. We
-include:
+- Model: contains all the classes and interfaces needed to run the game. It
+includes:
   - Classes:
     - MoveAuto (which animates the character when it moves)
     - Enemy
