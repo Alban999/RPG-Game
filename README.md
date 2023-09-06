@@ -2,7 +2,7 @@
 
 This game is a role-playing game that consists of the evolution of a Polytechnique student within ULB (Université Libre de Bruxelles). The main character is a student who, through various peripeties (like taking exams, partying, etc.), will have to progress in order to obtain his degree from Polytechnique.
 
-Our architecture is composed of 4 Design Patterns:
+The architecture is composed of 4 Design Patterns:
 - Controller: contains the Keyboard class which allows to create commands for the game.
 - main: contains the MainStudent class, which enables us to launch the program.
 - Model: contains all the classes and interfaces needed to run the game. We
